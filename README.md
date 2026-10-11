@@ -1,28 +1,40 @@
-Saish Patil — Premium Portfolio Starter
-A responsive portfolio website built with HTML, CSS, and vanilla JavaScript.
-Included
-Responsive desktop and mobile layout
-Mobile navigation menu
-Project category filters
-Scroll progress indicator and reveal animations
-Reduced-motion support
-Semantic HTML and basic SEO metadata
-Resume PDF in `assets/`
-Run locally
-Open `index.html` in your browser. You can also use the Live Server extension in Visual Studio Code.
-Publish with GitHub Pages
-Upload the contents of this folder to your portfolio repository.
-Open repository Settings → Pages.
-Select branch `main` and folder `/ (root)`, then save.
-Wait for the deployment and test the live site on desktop and mobile.
-Before making public
-Replace the LinkedIn placeholder with your real LinkedIn profile URL.
-Add verified repository/demo URLs to the project cards.
-Confirm the details, features, and technology stack of Vyra, Payment Slip Generator, and Telegram AI Bot.
-Keep concept projects clearly marked as concepts until implemented.
-Review every skill and claim to ensure it reflects your actual experience.
+# 👋 Hi, I'm Saish Patil
 
-Profile assets and links
-Profile photo: `assets/profile.jpg`
-LinkedIn: https://www.linkedin.com/in/saish-patil-007257397/
-The profile photo is used in the hero section. Review all project descriptions and certificate details before presenting them as verified achievements.
+### Computer Engineering Student | Developer | Exploring AI, IoT & Web Technologies
+
+I'm a Computer Engineering student passionate about building practical digital solutions, exploring emerging technologies, and turning ideas into useful projects. I enjoy learning by building, experimenting with new tools, and continuously improving my development skills.
+
+## 🚀 About Me
+
+- 🎓 Pursuing a **B.E. in Computer Engineering** at Shree Rayeshwar Institute of Engineering & Information Technology.
+- 💻 Interested in web development, software engineering, Artificial Intelligence, and the Internet of Things (IoT).
+- 🛠️ Exploring projects that combine technology, creativity, and real-world problem-solving.
+- 📚 Continuously learning new technologies and improving my technical skills.
+- 🎯 Working toward becoming a versatile engineer who builds reliable, user-focused solutions.
+
+## 🧰 Areas of Interest
+
+- Web Development
+- Artificial Intelligence & Automation
+- Internet of Things (IoT)
+- Software Development
+- Data Science & Cloud Technologies
+
+## 🌟 Featured Projects
+
+- **Vyra** — A project I'm developing and refining.
+- **Payment Slip Generator** — A web-based project focused on generating payment slips.
+- **Telegram AI Bot** — Exploring AI-powered bot functionality through Telegram.
+- **IoT Personal Safety Device** — Exploring technology-driven personal safety solutions.
+
+*Project descriptions and technologies will be updated as each project is verified and documented.*
+
+## 🤝 Connect With Me
+
+- 💼 **LinkedIn:** [Saish Patil](https://www.linkedin.com/in/saish-patil-007257397/)
+- 💻 **GitHub:** [saishpatil0-ui](https://github.com/saishpatil0-ui)
+- 🌐 **Portfolio:** [View My Portfolio](https://saishpatil0-ui.github.io/saish-portfolio-premium/)
+
+---
+
+*Learning continuously. Building consistently. Improving every day.* 🚀
